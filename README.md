@@ -1,7 +1,7 @@
 # Guess My Number
 
 ## Live Demo
-**You can see the project live on:** [Here](https://barak-kuzi.github.io/Guess-My-Number/)
+**You can see the `Guess My Number` Live On:** [Here](https://barak-kuzi.github.io/Guess-My-Number/)
 
 ## Description
 _Guess-My-Number is a single-player game built with JavaScript._
