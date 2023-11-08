@@ -51,10 +51,10 @@ h1{
     transform: translate(-50%, -50%);
 }
 
-.number{
+#secretNumber{
     background: #eee;
     color: #333;
-    font-size: 6rem;
+    font-size: 7rem;
     width: 15rem;
     padding: 3rem 0rem;
     text-align: center;
