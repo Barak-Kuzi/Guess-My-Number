@@ -9,7 +9,9 @@ You have a range of numbers between 1 to 20.<br>
 The idea of the game is to follow the clues of how close you are to the correct number whenever you fail to guess it right.
 
 Technologies:
-
 - JavaScript
 - HTML
 - CSS
+
+## About
+This project was developed in the course: "The Complete JavaScript Course 2023: From Zero to Expert!", by Jonas Schmedtmann.
