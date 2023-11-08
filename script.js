@@ -33,16 +33,16 @@ function checkGuessNumber(){
         switch (true){
             case(myGuess < secretNumber):
                 currentScore -= 1;
-                messageText.textContent = "Too low";
+                messageText.textContent = "📉 Too low❕";
                 scoreText.textContent = currentScore;
                 break;
             case(myGuess > secretNumber):
                 currentScore -= 1;
-                messageText.textContent = "Too High";
+                messageText.textContent = "📈 Too High❕";
                 scoreText.textContent = currentScore;
                 break;
             case(myGuess == secretNumber):
-                messageText.textContent = "You are Correct!";
+                messageText.textContent = "🎯 You are Correct❕❕";
                 secretNumberText.textContent = secretNumber;
                 highScoreText.textContent = currentScore;
                 highScore = currentScore;
